@@ -4,43 +4,44 @@ A scalable and modular blueprint for building web applications with Rust. Inspir
 
 ## Frameworks
 
-Choose one of the following Rust web frameworks:
-- **Axum**
-- **Rocket**
+> Choose one of the following Rust web frameworks:
+> - **Axum**
+> - **Rocket**
 
 ## Database
 
-Multiple database options with ORM or pool-only modes:
-- **Diesel (ORM)**
-- **Diesel (pool only)**
-- **SeaORM**
-- **SQLx**
+> Multiple database options with ORM or pool-only modes:
+> - **Diesel (ORM)**
+> - **Diesel (pool only)**
+> - **SeaORM**
+> - **SQLx**
 
 ## Middlewares
 
-Enhance your application with these middleware components:
-- **Tenant middleware**
-- **Authentication**
-  - Okta integration
-  - Social login (Google, GitHub, etc.)
+> Enhance your application with these middleware components:
+> - **Tenant middleware**
+> - **Authentication**
+>   - Okta integration
+>   - Social login (Google, GitHub, etc.)
 
 ## Caching
 
-Leverage caching to optimize performance:
-- **Redis**
+> Leverage caching to optimize performance:
+> - **In-Memory**
+> - **Redis**
 
 ## Pub/Sub
 
-Real-time message brokers:
-- **NATS**
-- **AMQP**
-- **Redis**
+> Real-time message brokers:
+> - **NATS**
+> - **AMQP**
+> - **Redis**
 
 ## Docker
 
-Containerization support for different environments:
-- **Local Development**
-- **Production** (e.g., Distroless)
+> Containerization support for different environments:
+> - **Local Development**
+> - **Production** (e.g., Distroless)
 
 ---
 
