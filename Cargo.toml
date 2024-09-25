@@ -1,5 +1,6 @@
 [package]
 name = "rust-blueprint"
+description = "A scalable and modular blueprint for building web applications with rust"
 authors = ["ashupednekar <ashupednekar49@gmail.com>"]
 license = "MIT"
 version = "0.1.0"
