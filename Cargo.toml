@@ -1,5 +1,5 @@
 [package]
-name = "blueprint"
+name = "rust-blueprint"
 authors = ["ashupednekar <ashupednekar49@gmail.com>"]
 license = "MIT"
 version = "0.1.0"
