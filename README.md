@@ -1,6 +1,6 @@
 # Rust Blueprint
 
-A scalable and modular blueprint for building web applications with Rust. Inspired by [melkeydev/go-blueprint](https://github.com/melkeydev/go-blueprint), this project is designed to provide a solid starting point for new Rust projects with flexible framework, database, and pub/sub integration options.
+A scalable and modular blueprint for building web applications with Rust. Inspired by [melkeydev/go-blueprint](https://github.com/melkeydev/go-blueprint) (in terms of tooling/templating), this project is designed to provide a solid starting point for new Rust projects with flexible framework, database, and pub/sub integration options.
 
 ## Frameworks
 
