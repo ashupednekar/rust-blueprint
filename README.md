@@ -70,6 +70,9 @@ Containerization support for different environments:
 
 ---
 
+## Future work
+Add support for cargo workspace if needed
+
 ## Contributing
 
 We welcome contributions! Feel free to submit a pull request or open an issue.
